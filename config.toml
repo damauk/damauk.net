@@ -1,9 +1,7 @@
-baseURL = "https://www.damauk.net/"
+baseURL = "http://www.damauk.net/"
 languageCode = "en-us"
 title = "damauk.net"
 theme = "minimal"
-# disqusShortname = "username" # delete this to disable disqus comments
-# googleAnalytics = ""
 
 [params]
     author = "David Maulik"
