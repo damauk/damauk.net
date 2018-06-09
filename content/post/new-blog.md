@@ -1,7 +1,7 @@
 ---
 title: "New Blog"
 date: 2018-06-07
-draft: true
+draft: false
 ---
 
 ## My new blog...again
