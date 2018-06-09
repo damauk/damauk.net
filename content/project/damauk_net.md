@@ -3,7 +3,7 @@ title: "damauk.net"
 description: "personal blog for random stuff"
 repo: "damauk.net"
 tags: ["hugo"]
-weight: 99
+weight: 50
 draft: false
 ---
 
