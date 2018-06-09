@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hugo on damauk.net</title>
+    <title>Hugo on damauk</title>
     <link>http://www.damauk.net/tags/hugo/</link>
-    <description>Recent content in Hugo on damauk.net</description>
+    <description>Recent content in Hugo on damauk</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Fri, 08 Jun 2018 19:38:22 -0600</lastBuildDate>
     
 	<atom:link href="http://www.damauk.net/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     
@@ -17,6 +18,15 @@
       
       <guid>http://www.damauk.net/project/damauk_net/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Hugo: Getting Started</title>
+      <link>http://www.damauk.net/post/hugo-getting-started/</link>
+      <pubDate>Fri, 08 Jun 2018 19:38:22 -0600</pubDate>
+      
+      <guid>http://www.damauk.net/post/hugo-getting-started/</guid>
+      <description>Introduction I have decided that I need to have a new website that is simple, clean, and effective, replacing the slow, out of date WordPress blog I had before. I was thinking I would start writing a pure HTML page then learn some CSS and finally add some javascript, but I quickly realized that beyond being extremely nostalgic, pure HTML websites are a thing of the past and I would be better off starting somewhere else.</description>
     </item>
     
   </channel>
