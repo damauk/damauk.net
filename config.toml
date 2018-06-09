@@ -1,13 +1,13 @@
 baseURL = "http://www.damauk.net/"
 languageCode = "en-us"
-title = "damauk.net"
+title = "damauk"
 theme = "minimal"
 
 [params]
     author = "David Maulik"
-    description = "Personal blog for my random stuff"
+    description = "/home/random"
     githubUsername = "damauk"
-    accent = "blue"
+    accent = "green"
     showBorder = true
     backgroundColor = "white"
     font = "Raleway" # should match the name on Google Fonts!
