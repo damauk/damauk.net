@@ -1,5 +1,5 @@
 ---
-title: "Hoffman Electric"
+title: "Hoffman Electric Website"
 description: "Basic website for an electrical contracting business."
 tags: ["hugo"]
 weight: 60
