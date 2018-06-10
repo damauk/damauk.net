@@ -1,6 +1,6 @@
 ---
 title: "Hugo: Getting Started"
-date: 2018-06-08T19:38:22-06:00
+date: 2018-06-08
 tags: ["hugo", "linux"]
 draft: false
 ---

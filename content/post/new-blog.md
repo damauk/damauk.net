@@ -1,6 +1,7 @@
 ---
 title: "New Blog"
 date: 2018-06-07
+tags: []
 draft: false
 ---
 
