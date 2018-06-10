@@ -6,6 +6,6 @@ weight: 60
 draft: true
 ---
 
-## [www.hoffmanelectric.net](http://www.hoffmanelectric.net/)
+## <center>[www.hoffmanelectric.net](http://www.hoffmanelectric.net/)</center>
 
 Simple webpage made with Hugo to provide basic company and contact information to customers. This project utilizes the [Dimension](https://github.com/sethmacleod/dimension) theme. 
