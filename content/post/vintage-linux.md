@@ -5,9 +5,7 @@ tags: [linux,retro]
 draft: true
 ---
 
-Getting new linux to run on old hardware is pretty easy. Getting old Linux to run on new hardware is an entirely different beast. I have loved Linux since I was 12. My family doesn't come from a 
-
-I dug through my old books and find my copy of "Red Hat Linux Unleashed" from 1998 which contains a CD with Red Hat 5.2 (Not to be confused with Red Hat *Enterprise* Linux)
+Getting new linux to run on old hardware is pretty easy. Getting old Linux to run on new hardware is an entirely different beast. I have loved Linux since I was 12 and when I dug through my old books and found my old copy of "Red Hat Linux Unleashed" from 1998 which contains a CD with Red Hat 5.2 (Not to be confused with Red Hat *Enterprise* Linux) I was pretty excited. My excitement died pretty quickly when I realised I won't be able to install the system on actual hardware since I don't have any old VGA CRT monitors laying around.
 
 ```
 $ isoinfo -d -i /dev/cdrom | grep -i -E 'block size|volume size'
